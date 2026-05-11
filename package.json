@@ -1,0 +1,20 @@
+{
+  "name": "opendanh",
+  "version": "1.0.0",
+  "description": "An open-source project by opendanh organization",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo \"Build script here\"",
+    "test": "echo \"Test script here\"",
+    "dev": "echo \"Dev script here\""
+  },
+  "keywords": [
+    "opendanh",
+    "open-source"
+  ],
+  "author": "opendanh",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
