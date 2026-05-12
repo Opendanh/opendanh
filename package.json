@@ -1,5 +1,14 @@
 "scripts": {
   "start": "node src/index.js",
+  "test": "echo \"Test script here\"",
+  "build": "echo \"Build script here\"",
+  "dev": "echo \"Dev script here\"",
+  "start:hello-ai": "node apps/hello-ai/index.js"
+}
+
+
+"scripts": {
+  "start": "node src/index.js",
   "test": "jest",
   "build": "webpack --config webpack.config.js",
   "start:hello-ai": "node apps/hello-ai/index.js"
