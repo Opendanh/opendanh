@@ -1,4 +1,12 @@
+"scripts": {
+  "start": "node src/index.js",
+  "test": "jest",
+  "build": "webpack --config webpack.config.js",
+  "start:hello-ai": "node apps/hello-ai/index.js"
+}
 {
+
+  
   "name": "opendanh",
   "version": "1.0.0",
   "description": "An open-source project by opendanh organization",
